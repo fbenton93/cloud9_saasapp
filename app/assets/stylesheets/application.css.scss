@@ -78,3 +78,10 @@ h1, h2, h3 {
 .alert-notice {
     display: none;
 }
+
+//Restrict comment box to contact well
+textarea {
+    max-width: 100%;
+}
+
+
